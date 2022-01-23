@@ -1,3 +1,3 @@
 # React
 
-Projects done while learning React.js
+Projects done while learning React.js on Scrimba
